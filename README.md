@@ -15,9 +15,10 @@ Para hechar a andar el proyecto
 npm install,
 
 npm run dev
+![alt text](image-4.png)
 
 desde aqui se hacen los cambios de los letreros
-![alt text](image-4.png)
+![alt text](/public/img/carrito.png)
 
 Si quiero usar el directorio de src, se escribe ./y la ruta
 
@@ -28,9 +29,20 @@ HMR = Hot Model Replacement
 Este numero significa que hay 2 problemas
 ![alt text](image.png)
 
-## para el repositorio
+## Para el repositorio
 dentro del directorio donde se tiene el proyecto
 
 git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/RupertoTacuche/guitarlav4.git
+
+git push -u origin main
+
 
 me quede en el video 55
